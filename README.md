@@ -1,2 +1,2 @@
 # contact form
-#### contact form, using HTML, CSS, JS
+#### contact form, using HTML, CSS, JS (JQUERY)
